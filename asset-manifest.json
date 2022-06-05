@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TrappedWebApp/static/css/main.2e04c3a1.css",
+    "main.js": "/TrappedWebApp/static/js/main.08e55554.js",
+    "static/media/sound.mp3": "/TrappedWebApp/static/media/sound.8f6c1f83b7e0c5e1e32c.mp3",
+    "static/media/sfondo.png": "/TrappedWebApp/static/media/sfondo.16f9a9f26d5dc3f839d0.png",
+    "static/media/home.png": "/TrappedWebApp/static/media/home.2c14834b4ca567437f17.png",
+    "static/media/clickButton.wav": "/TrappedWebApp/static/media/clickButton.5fca844e5febfdf76757.wav",
+    "static/media/giardino.png": "/TrappedWebApp/static/media/giardino.ea66f47c3af9dac7cf0d.png",
+    "static/media/Retro Gaming.ttf": "/TrappedWebApp/static/media/Retro Gaming.c1a52a602585b2d6baf8.ttf",
+    "static/media/04B_30__.TTF": "/TrappedWebApp/static/media/04B_30__.cb829af0ad882093769c.TTF",
+    "static/media/presidenza.png": "/TrappedWebApp/static/media/presidenza.d720d7765ac4843ebca8.png",
+    "static/media/bagno.png": "/TrappedWebApp/static/media/bagno.35827cc95262a355cf79.png",
+    "static/media/laboratorio.png": "/TrappedWebApp/static/media/laboratorio.a6dfe2512fa2e021da4f.png",
+    "index.html": "/TrappedWebApp/index.html",
+    "main.2e04c3a1.css.map": "/TrappedWebApp/static/css/main.2e04c3a1.css.map",
+    "main.08e55554.js.map": "/TrappedWebApp/static/js/main.08e55554.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e04c3a1.css",
+    "static/js/main.08e55554.js"
+  ]
+}
